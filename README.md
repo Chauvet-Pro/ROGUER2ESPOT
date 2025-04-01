@@ -2,6 +2,9 @@
 
 ## Software Versions
 
+[V1.241206 - Rogue R2E Spot](https://github.com/Chauvet-Pro/ROGUER2ESPOT/blob/4f3ab6e8c326f10a4eee8d58b352ac32ffd9a78c/firmware/V1.241206.zip)
+- No new features or performance enhancements were added. This update is for internal use only
+
 [V1.240123 - Rogue R2E Spot](https://github.com/Chauvet-Pro/ROGUER2ESPOT/blob/2c05c2d1c6a7cdc4f48756f6dc041a2aac1091bf/firmware/V1.240123.zip)
 - Added stop point to gobo rotating channel
 
